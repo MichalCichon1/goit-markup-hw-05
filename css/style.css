@@ -593,6 +593,7 @@ ul {
   border: 1px solid rgba(0, 0, 0, 0.1);
   transition: cubic-bezier(0.4, 0, 0.2, 1);
   transition-duration: 250ms;
+  cursor: pointer;
 }
 .is-hidden .modal {
   transform: translate(-50%, -50%) scale(0);
